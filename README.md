@@ -136,16 +136,9 @@ Export your collection or import the example JSON.
 - ✅ Sample MongoDB entries
 - ✅ This README
 
----
 
-## 📌 Notes
-
-- Replace the fake Gemini response with a real API call once available.
-- Handle errors and validation as needed for production.
-
----
 
 ## 📬 Author
 
-**Your Name**  
+VAISHALI  
 DevVoid Assignment Project
